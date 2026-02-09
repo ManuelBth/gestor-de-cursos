@@ -1,0 +1,129 @@
+2026-02-07 17:32:15 INFO  CursoService:19 - CursoService initialized
+2026-02-07 17:32:15 INFO  CursoService:24 - Adding course: Curso [nombre=Física, codigo=FIS101, capacidad=2, estudiantes=[]]
+2026-02-07 17:32:15 INFO  CursoService:24 - Adding course: Curso [nombre=Química, codigo=QUI101, capacidad=3, estudiantes=[]]
+2026-02-07 17:32:15 INFO  CursoService:29 - Retrieving all courses
+2026-02-07 17:32:15 INFO  CursoService:29 - Retrieving all courses
+2026-02-07 17:32:15 INFO  CursoService:29 - Retrieving all courses
+2026-02-07 17:32:25 INFO  CursoService:19 - CursoService initialized
+2026-02-07 17:32:25 INFO  CursoService:24 - Adding course: Curso [nombre=Física, codigo=FIS101, capacidad=2, estudiantes=[]]
+2026-02-07 17:32:25 INFO  CursoService:24 - Adding course: Curso [nombre=Química, codigo=QUI101, capacidad=3, estudiantes=[]]
+2026-02-07 17:32:25 INFO  CursoService:29 - Retrieving all courses
+2026-02-07 17:43:54 INFO  CursoService:19 - CursoService initialized
+2026-02-07 17:43:54 INFO  CursoService:34 - Searching for course with ID: MAT999
+2026-02-07 17:43:54 WARN  CursoService:41 - Course with ID MAT999 not found
+2026-02-07 17:43:54 INFO  CursoService:19 - CursoService initialized
+2026-02-07 17:43:54 INFO  CursoService:24 - Adding course: Curso [nombre=Física, codigo=FIS101, capacidad=2, estudiantes=[]]
+2026-02-07 17:43:54 INFO  CursoService:24 - Adding course: Curso [nombre=Química, codigo=QUI101, capacidad=3, estudiantes=[]]
+2026-02-07 17:43:54 INFO  CursoService:29 - Retrieving all courses
+2026-02-07 17:43:54 INFO  CursoService:29 - Retrieving all courses
+2026-02-07 17:43:54 INFO  CursoService:29 - Retrieving all courses
+2026-02-07 17:43:54 INFO  CursoService:19 - CursoService initialized
+2026-02-07 17:43:54 INFO  CursoService:29 - Retrieving all courses
+2026-02-07 17:43:54 INFO  CursoService:19 - CursoService initialized
+2026-02-07 17:43:54 INFO  CursoService:24 - Adding course: Curso [nombre=Biología, codigo=BIO101, capacidad=2, estudiantes=[]]
+2026-02-07 17:43:54 INFO  CursoService:24 - Adding course: Curso [nombre=Historia, codigo=HIS101, capacidad=3, estudiantes=[]]
+2026-02-07 17:43:54 INFO  CursoService:34 - Searching for course with ID: BIO101
+2026-02-07 17:43:54 INFO  CursoService:37 - Course found: Curso [nombre=Biología, codigo=BIO101, capacidad=2, estudiantes=[]]
+2026-02-07 17:43:54 INFO  CursoService:34 - Searching for course with ID: HIS101
+2026-02-07 17:43:54 INFO  CursoService:37 - Course found: Curso [nombre=Historia, codigo=HIS101, capacidad=3, estudiantes=[]]
+2026-02-08 16:57:18 INFO  InscripcionService:21 - InscripcionService initialized
+2026-02-08 16:57:18 INFO  InscripcionService:30 - Adding student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] to course: Curso [nombre=Literatura, codigo=LIT101, capacidad=2, estudiantes=[]]
+2026-02-08 16:57:58 INFO  InscripcionService:21 - InscripcionService initialized
+2026-02-08 16:57:58 INFO  InscripcionService:30 - Adding student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] to course: Curso [nombre=Literatura, codigo=LIT101, capacidad=2, estudiantes=[]]
+2026-02-08 17:00:22 INFO  InscripcionService:21 - InscripcionService initialized
+2026-02-08 17:00:22 INFO  InscripcionService:30 - Adding student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] to course: Curso [nombre=Literatura, codigo=LIT101, capacidad=2, estudiantes=[]]
+2026-02-08 17:04:10 INFO  InscripcionService:21 - InscripcionService initialized
+2026-02-08 17:04:11 INFO  InscripcionService:30 - Adding student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] to course: Curso [nombre=Literatura, codigo=LIT101, capacidad=2, Número de inscripciones=0]
+2026-02-08 17:04:11 INFO  InscripcionService:40 - Student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] added to course: Curso [nombre=Literatura, codigo=LIT101, capacidad=2, Número de inscripciones=1]
+2026-02-08 17:14:24 INFO  InscripcionService:21 - InscripcionService initialized
+2026-02-08 17:14:24 INFO  InscripcionService:30 - Adding student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] to course: Curso [nombre=Literatura, codigo=LIT101, capacidad=2, Número de inscripciones=0]
+2026-02-08 17:14:24 INFO  InscripcionService:40 - Student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] added to course: Curso [nombre=Literatura, codigo=LIT101, capacidad=2, Número de inscripciones=1]
+2026-02-08 17:14:24 INFO  InscripcionService:21 - InscripcionService initialized
+2026-02-08 17:14:24 INFO  InscripcionService:30 - Adding student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] to course: Curso [nombre=Física, codigo=FIS101, capacidad=2, Número de inscripciones=0]
+2026-02-08 17:14:24 INFO  InscripcionService:40 - Student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] added to course: Curso [nombre=Física, codigo=FIS101, capacidad=2, Número de inscripciones=1]
+2026-02-08 17:14:24 INFO  InscripcionService:30 - Adding student: Estudiante [nombre=Carlos Rodríguez, id=11223344, email=carlosr@gmail.com] to course: Curso [nombre=Física, codigo=FIS101, capacidad=2, Número de inscripciones=1]
+2026-02-08 17:14:24 INFO  InscripcionService:40 - Student: Estudiante [nombre=Carlos Rodríguez, id=11223344, email=carlosr@gmail.com] added to course: Curso [nombre=Física, codigo=FIS101, capacidad=2, Número de inscripciones=2]
+2026-02-08 17:14:24 INFO  InscripcionService:30 - Adding student: Estudiante [nombre=Laura Sánchez, id=55667788, email=lauras@gmail.com] to course: Curso [nombre=Física, codigo=FIS101, capacidad=2, Número de inscripciones=2]
+2026-02-08 17:14:24 WARN  InscripcionService:32 - Cannot add student: Estudiante [nombre=Laura Sánchez, id=55667788, email=lauras@gmail.com] to course: Curso [nombre=Física, codigo=FIS101, capacidad=2, Número de inscripciones=2] - Course is full
+2026-02-08 17:14:24 INFO  InscripcionService:21 - InscripcionService initialized
+2026-02-08 17:14:24 INFO  InscripcionService:30 - Adding student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] to course: Curso [nombre=Literatura, codigo=LIT101, capacidad=2, Número de inscripciones=0]
+2026-02-08 17:14:24 INFO  InscripcionService:40 - Student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] added to course: Curso [nombre=Literatura, codigo=LIT101, capacidad=2, Número de inscripciones=1]
+2026-02-08 17:14:24 INFO  InscripcionService:30 - Adding student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] to course: Curso [nombre=Física, codigo=FIS101, capacidad=2, Número de inscripciones=0]
+2026-02-08 17:14:24 INFO  InscripcionService:40 - Student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] added to course: Curso [nombre=Física, codigo=FIS101, capacidad=2, Número de inscripciones=1]
+2026-02-08 17:14:24 INFO  InscripcionService:63 - Listing enrollments for student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com]
+2026-02-08 17:14:24 INFO  InscripcionService:76 - Found 2 enrollments for student: Ana Martínez
+2026-02-08 17:14:24 INFO  InscripcionService:63 - Listing enrollments for student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com]
+2026-02-08 17:14:24 INFO  InscripcionService:76 - Found 2 enrollments for student: Ana Martínez
+2026-02-08 17:14:24 INFO  InscripcionService:63 - Listing enrollments for student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com]
+2026-02-08 17:14:24 INFO  InscripcionService:76 - Found 2 enrollments for student: Ana Martínez
+2026-02-08 17:14:24 INFO  InscripcionService:21 - InscripcionService initialized
+2026-02-08 17:14:24 INFO  InscripcionService:44 - Removing student: Ana Martínez from course: Literatura
+2026-02-08 17:14:24 WARN  InscripcionService:57 - Student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] not found in course: Curso [nombre=Literatura, codigo=LIT101, capacidad=2, Número de inscripciones=0]
+2026-02-08 17:14:24 INFO  InscripcionService:21 - InscripcionService initialized
+2026-02-08 17:14:24 INFO  InscripcionService:30 - Adding student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] to course: Curso [nombre=Literatura, codigo=LIT101, capacidad=2, Número de inscripciones=0]
+2026-02-08 17:14:24 INFO  InscripcionService:40 - Student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] added to course: Curso [nombre=Literatura, codigo=LIT101, capacidad=2, Número de inscripciones=1]
+2026-02-08 17:14:24 INFO  InscripcionService:44 - Removing student: Ana Martínez from course: Literatura
+2026-02-08 17:14:24 INFO  InscripcionService:55 - Student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] removed from course: Curso [nombre=Literatura, codigo=LIT101, capacidad=2, Número de inscripciones=0]
+2026-02-08 17:33:43 INFO  CursoService:20 - CursoService initialized
+2026-02-08 17:33:43 INFO  CursoService:48 - Searching for course with ID: MAT999
+2026-02-08 17:33:43 WARN  CursoService:55 - Course with ID MAT999 not found
+2026-02-08 17:33:43 INFO  CursoService:20 - CursoService initialized
+2026-02-08 17:33:43 INFO  CursoService:38 - Adding course: Curso [nombre=Física, codigo=FIS101, capacidad=2, Número de inscripciones=0]
+2026-02-08 17:33:43 WARN  CursoService:33 - Attempted to add duplicate course with code: FIS101
+2026-02-08 17:33:43 INFO  CursoService:20 - CursoService initialized
+2026-02-08 17:33:43 ERROR CursoService:26 - Attempted to add null course
+2026-02-08 17:33:43 INFO  CursoService:20 - CursoService initialized
+2026-02-08 17:33:43 INFO  CursoService:38 - Adding course: Curso [nombre=Física, codigo=FIS101, capacidad=2, Número de inscripciones=0]
+2026-02-08 17:33:43 INFO  CursoService:38 - Adding course: Curso [nombre=Química, codigo=QUI101, capacidad=3, Número de inscripciones=0]
+2026-02-08 17:33:43 INFO  CursoService:43 - Retrieving all courses
+2026-02-08 17:33:43 INFO  CursoService:43 - Retrieving all courses
+2026-02-08 17:33:43 INFO  CursoService:43 - Retrieving all courses
+2026-02-08 17:33:43 INFO  CursoService:20 - CursoService initialized
+2026-02-08 17:33:43 INFO  CursoService:43 - Retrieving all courses
+2026-02-08 17:33:43 INFO  CursoService:20 - CursoService initialized
+2026-02-08 17:33:43 INFO  CursoService:38 - Adding course: Curso [nombre=Biología, codigo=BIO101, capacidad=2, Número de inscripciones=0]
+2026-02-08 17:33:43 INFO  CursoService:38 - Adding course: Curso [nombre=Historia, codigo=HIS101, capacidad=3, Número de inscripciones=0]
+2026-02-08 17:33:43 INFO  CursoService:48 - Searching for course with ID: BIO101
+2026-02-08 17:33:43 INFO  CursoService:51 - Course found: Curso [nombre=Biología, codigo=BIO101, capacidad=2, Número de inscripciones=0]
+2026-02-08 17:33:43 INFO  CursoService:48 - Searching for course with ID: HIS101
+2026-02-08 17:33:43 INFO  CursoService:51 - Course found: Curso [nombre=Historia, codigo=HIS101, capacidad=3, Número de inscripciones=0]
+2026-02-08 17:34:00 INFO  InscripcionService:22 - InscripcionService initialized
+2026-02-08 17:34:00 INFO  InscripcionService:55 - Adding student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] to course: Curso [nombre=Literatura, codigo=LIT101, capacidad=2, Número de inscripciones=0]
+2026-02-08 17:34:00 INFO  InscripcionService:65 - Student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] added to course: Curso [nombre=Literatura, codigo=LIT101, capacidad=2, Número de inscripciones=1]
+2026-02-08 17:34:00 INFO  InscripcionService:22 - InscripcionService initialized
+2026-02-08 17:34:00 ERROR InscripcionService:37 - Student parameter is null
+2026-02-08 17:34:00 INFO  InscripcionService:22 - InscripcionService initialized
+2026-02-08 17:34:00 INFO  InscripcionService:55 - Adding student: Estudiante [nombre=Ana, id=123, email=ana@test.com] to course: Curso [nombre=Física, codigo=FIS101, capacidad=2, Número de inscripciones=0]
+2026-02-08 17:34:00 INFO  InscripcionService:65 - Student: Estudiante [nombre=Ana, id=123, email=ana@test.com] added to course: Curso [nombre=Física, codigo=FIS101, capacidad=2, Número de inscripciones=1]
+2026-02-08 17:34:00 WARN  InscripcionService:49 - Student Ana already enrolled in course Física
+2026-02-08 17:34:00 INFO  InscripcionService:22 - InscripcionService initialized
+2026-02-08 17:34:00 INFO  InscripcionService:55 - Adding student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] to course: Curso [nombre=Física, codigo=FIS101, capacidad=2, Número de inscripciones=0]
+2026-02-08 17:34:00 INFO  InscripcionService:65 - Student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] added to course: Curso [nombre=Física, codigo=FIS101, capacidad=2, Número de inscripciones=1]
+2026-02-08 17:34:00 INFO  InscripcionService:55 - Adding student: Estudiante [nombre=Carlos Rodríguez, id=11223344, email=carlosr@gmail.com] to course: Curso [nombre=Física, codigo=FIS101, capacidad=2, Número de inscripciones=1]
+2026-02-08 17:34:00 INFO  InscripcionService:65 - Student: Estudiante [nombre=Carlos Rodríguez, id=11223344, email=carlosr@gmail.com] added to course: Curso [nombre=Física, codigo=FIS101, capacidad=2, Número de inscripciones=2]
+2026-02-08 17:34:00 INFO  InscripcionService:55 - Adding student: Estudiante [nombre=Laura Sánchez, id=55667788, email=lauras@gmail.com] to course: Curso [nombre=Física, codigo=FIS101, capacidad=2, Número de inscripciones=2]
+2026-02-08 17:34:00 WARN  InscripcionService:57 - Cannot add student: Estudiante [nombre=Laura Sánchez, id=55667788, email=lauras@gmail.com] to course: Curso [nombre=Física, codigo=FIS101, capacidad=2, Número de inscripciones=2] - Course is full
+2026-02-08 17:34:00 INFO  InscripcionService:22 - InscripcionService initialized
+2026-02-08 17:34:00 INFO  InscripcionService:55 - Adding student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] to course: Curso [nombre=Literatura, codigo=LIT101, capacidad=2, Número de inscripciones=0]
+2026-02-08 17:34:00 INFO  InscripcionService:65 - Student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] added to course: Curso [nombre=Literatura, codigo=LIT101, capacidad=2, Número de inscripciones=1]
+2026-02-08 17:34:00 INFO  InscripcionService:55 - Adding student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] to course: Curso [nombre=Física, codigo=FIS101, capacidad=2, Número de inscripciones=0]
+2026-02-08 17:34:00 INFO  InscripcionService:65 - Student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] added to course: Curso [nombre=Física, codigo=FIS101, capacidad=2, Número de inscripciones=1]
+2026-02-08 17:34:00 INFO  InscripcionService:115 - Listing enrollments for student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com]
+2026-02-08 17:34:00 INFO  InscripcionService:128 - Found 2 enrollments for student: Ana Martínez
+2026-02-08 17:34:00 INFO  InscripcionService:115 - Listing enrollments for student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com]
+2026-02-08 17:34:00 INFO  InscripcionService:128 - Found 2 enrollments for student: Ana Martínez
+2026-02-08 17:34:00 INFO  InscripcionService:115 - Listing enrollments for student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com]
+2026-02-08 17:34:00 INFO  InscripcionService:128 - Found 2 enrollments for student: Ana Martínez
+2026-02-08 17:34:00 INFO  InscripcionService:22 - InscripcionService initialized
+2026-02-08 17:34:00 WARN  InscripcionService:81 - Attempted to remove student from empty enrollment list
+2026-02-08 17:34:00 INFO  InscripcionService:22 - InscripcionService initialized
+2026-02-08 17:34:00 ERROR InscripcionService:33 - Course parameter is null
+2026-02-08 17:34:00 INFO  InscripcionService:22 - InscripcionService initialized
+2026-02-08 17:34:00 ERROR InscripcionService:41 - Date parameter is null
+2026-02-08 17:34:00 INFO  InscripcionService:22 - InscripcionService initialized
+2026-02-08 17:34:00 INFO  InscripcionService:55 - Adding student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] to course: Curso [nombre=Literatura, codigo=LIT101, capacidad=2, Número de inscripciones=0]
+2026-02-08 17:34:00 INFO  InscripcionService:65 - Student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] added to course: Curso [nombre=Literatura, codigo=LIT101, capacidad=2, Número de inscripciones=1]
+2026-02-08 17:34:00 INFO  InscripcionService:91 - Removing student: Ana Martínez from course: Literatura
+2026-02-08 17:34:00 INFO  InscripcionService:102 - Student: Estudiante [nombre=Ana Martínez, id=99887766, email=anam@gmail.com] removed from course: Curso [nombre=Literatura, codigo=LIT101, capacidad=2, Número de inscripciones=0]
+2026-02-08 17:34:00 INFO  InscripcionService:22 - InscripcionService initialized
+2026-02-08 17:34:00 WARN  InscripcionService:81 - Attempted to remove student from empty enrollment list
