@@ -1,4 +1,4 @@
-# Sistema de Inscripciones - Proyecto de Cierre
+# Sistema de Inscripciones 
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Maven](https://img.shields.io/badge/Maven-3.8-blue)
